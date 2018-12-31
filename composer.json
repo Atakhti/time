@@ -1,0 +1,18 @@
+{
+    "name": "alitakhti/time",
+    "description": "this is my test package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ali takhti",
+            "email": "khatam.takhti@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Alitakhti\\Time\\": "src/"
+        }
+    },
+
+    "require": {}
+}
